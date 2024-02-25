@@ -1,0 +1,2 @@
+# Madhav_Store_DashBoard_PowerBI
+Madhav Store's owner wants us to whip up a dashboard to keep tabs on and analyze their online sales across India.
